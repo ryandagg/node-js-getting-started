@@ -1,0 +1,9 @@
+[_]
+name = "foobarbaz"
+schema-version = "0.2"
+[[_.licenses]]
+type = "MIT"
+[_.metadata]
+pipeline = "Lucerne"
+[[io.buildpacks.group]]
+id = "heroku/fake"
